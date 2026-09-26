@@ -13,7 +13,7 @@
 ## Как поставить
 
 1. Установи Throne и настрой в нём любой рабочий VPN/прокси
-2. Открой файл `bypass-russia-twitch.txt`, скопируй оттуда ссылку (она начинается с `throne://route/`)
+2. Открой файл `Bypass russia twitch`, скопируй оттуда ссылку (она начинается с `throne://route/`)
 3. В Throne: Profiles → Import from clipboard/URL, вставь ссылку
 4. Включи этот профиль
 
